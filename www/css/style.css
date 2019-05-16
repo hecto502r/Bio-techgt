@@ -1,1 +1,25 @@
 /* Empty. Add your own CSS if you like */
+.h{background: url(https://s-media-cache-ak0.pinimg.com/736x/4d/ac/68/4dac68659ced83ee7253255acc943449.jpg);
+
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  background: black url("http://api.thumbr.it/whitenoise-560x800.png?background=0f1517ff&noise=626262&density=67&opacity=15") repeat fixed center;
+}
+.titulo{
+	text-align: center;
+}
